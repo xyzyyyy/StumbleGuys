@@ -1,0 +1,18 @@
+{
+    "name": "cheat-stumble-guys",
+    "description": "This is an injector for push crown or throphy in Stumble Guys",
+    "version": "1.1.1",
+    "main": "./index.js",
+    "license": "MIT",
+    "author": "Rahardiyan",
+    "scripts": {
+        "start": "node ."
+    },
+    "dependencies": {
+        "axios": "0.27.2",
+        "cfonts": "^3.1.0",
+        "chalk": "4.1.2",
+        "moment-timezone": "0.5.34",
+        "readline-sync": "^1.4.10"
+    }
+}
